@@ -1,4 +1,4 @@
-# CredPy
+# Loan Amortization
 Simple loan amortization calculator.
 
 `https://github.com/seslak/LoanAmortization/`
